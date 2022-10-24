@@ -1,3 +1,7 @@
 # Repo untuk belajar CSS
 ## Learn CSS
-Ini adalah kumpulan file saya untuk belajar CSS dari salah satu aplikasi di android pertama kali.
+Ini adalah repo untuk belajar CSS dari salah satu aplikasi di android pertama kali.
+
+## WPU
+Ini adalah repo untuk belajar CSS dari WPU.
+

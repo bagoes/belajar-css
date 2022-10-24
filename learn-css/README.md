@@ -89,7 +89,7 @@
 ### 17. CSS Tables
 17.1 - Specify the padding for th and td elements  
 17.2 - Specify the color of the table borders  
-17.3 - Set the position of the table caption
+17.3 - Set the position of the table caption  
 17.4 - Create Fancy Tables
 
 ### 18. CSS Text
@@ -99,3 +99,5 @@
 18.4 - Set the text direction of an element  
 18.5 - Increase the white space between word  
 18.6 - Disable text wrapping inside an element
+
+*Penempatan sintaks CSS dengan cara embed pada file HTML.*
